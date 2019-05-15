@@ -3,8 +3,13 @@
 Esse documento tem como objetivo apresentar e descrever o projeto "BeThere", fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
 Link para acessar a aplicação:
-http://bethereapp.herokuapp.com/login
+
 Login: admin
+Senha: 123
+
+Link para acessar a aplicação:
+http://bethereapp.herokuapp.com/login    
+Login: admin    
 Senha: 123
 
 Apresentação geral do projeto:   
