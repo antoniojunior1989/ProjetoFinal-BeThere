@@ -12,14 +12,12 @@ https://medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f6
 
 ARTEFATOS DO PROJETO:
 
+## [Benchmarking - tabela comparativa](testes.md)
+
 ## [Canvas do Produto](canvas-do-produto.md)
-
-## [Planejamento da Release](planejamento-da-release.md)
-
-## [Representação da Arquitetura](representacao-da-arquitetura.md) 
 
 ## [Diagrama ER](DiagramaER.md)
 
-## [Benchmarking - tabela comparativa](testes.md)
+## [Planejamento da Release](planejamento-da-release.md)
 
-
+## [Representação da Arquitetura](representacao-da-arquitetura.md)
