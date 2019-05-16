@@ -115,3 +115,14 @@ A figura WIR021 ilustra a tela de proposta de valor na listagem de solicitaçõe
 
 ![Preview](images/wireframes/m_carona_list_motorista_oferecer_preco.png?raw=true "Wireframe da tela de proposta de valor na listagem de caronas - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR021 — Proposta de valor]</h5>
+
+## Tela de listagem de minhas solicitações
+A figura WIR022 ilustra a tela de listagem de minhas solicitações de caronas do aplicativo BeThere em versão para desktop.
+
+![Preview](images/wireframes/reserva.png?raw=true "Wireframe da tela listagem de minhas solicitações de caronas - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR022 — Listagem de minhas solicitações]</h5>
+
+A figura WIR023 ilustra a tela de listagem de minhas solicitações de caronas do aplicativo BeThere em versão responsiva.
+
+![Preview](images/wireframes/m_reserva.png?raw=true "Wireframe da tela listagem de minhas solicitações de caronas - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR023 — Listagem de minhas solicitações]</h5>
