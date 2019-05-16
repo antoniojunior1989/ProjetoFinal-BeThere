@@ -24,3 +24,14 @@ A figura WIR004 ilustra a tela de novo registro do aplicativo BeThere em versão
 
 ![Preview](images/wireframes/m_registrar.png?raw=true "Wireframe da tela de registro - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR004 — Registro]</h5>
+
+## Tela de boas vindas
+A figura WIR005 ilustra a tela de boas vindas do aplicativo BeThere em versão para desktop.
+
+![Preview](images/wireframes/principal.png?raw=true "Wireframe da tela de boas vindas - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR005 — Boas Vindas]</h5>
+
+A figura WIR006 ilustra a tela de boas vindas do aplicativo BeThere em versão responsiva.
+
+![Preview](images/wireframes/m_principal.png?raw=true "Wireframe da tela de boas vindas - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR006 — Boas Vindas]</h5>
