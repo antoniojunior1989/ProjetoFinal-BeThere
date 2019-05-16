@@ -68,3 +68,14 @@ A figura WIR012 ilustra a tela de perfil para o preenchimento dos dados do carro
 
 ![Preview](images/wireframes/m_perfil_carro.png?raw=true "Wireframe da tela de perfil - carro - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR012 — Perfil - Carro]</h5>
+
+## Tela de menu
+A figura WIR013 ilustra a tela de menu do aplicativo BeThere em versão para desktop.
+
+![Preview](images/wireframes/carona.png?raw=true "Wireframe da tela de menu - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR013 — Menu]</h5>
+
+A figura WIR014 ilustra a tela de menu do aplicativo BeThere em versão responsiva.
+
+![Preview](images/wireframes/m_carona.png?raw=true "Wireframe da tela de menu - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR014 — Menu]</h5>
