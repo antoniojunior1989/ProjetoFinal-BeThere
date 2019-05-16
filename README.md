@@ -7,17 +7,17 @@ http://bethereapp.herokuapp.com/login
 Login: admin    
 Senha: 123
 
-## Apresentação geral do projeto
-medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f622
+Apresentação geral do projeto
+https://medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f622
 
-## Artefatos do projeto
+ARTEFATOS DO PROJETO
 
-### [Benchmarking - tabela comparativa](testes.md)
+## [Benchmarking - tabela comparativa](testes.md)
 
-### [Canvas do Produto](canvas-do-produto.md)
+## [Canvas do Produto](canvas-do-produto.md)
 
-### [Diagrama ER](DiagramaER.md)
+## [Diagrama ER](DiagramaER.md)
 
-### [Planejamento da Release](planejamento-da-release.md)
+## [Planejamento da Release](planejamento-da-release.md)
 
-### [Representação da Arquitetura](representacao-da-arquitetura.md)
+## [Representação da Arquitetura](representacao-da-arquitetura.md)
