@@ -35,3 +35,14 @@ A figura WIR006 ilustra a tela de boas vindas do aplicativo BeThere em versão r
 
 ![Preview](images/wireframes/m_principal.png?raw=true "Wireframe da tela de boas vindas - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR006 — Boas Vindas]</h5>
+
+## Tela de perfil - dados pessoais
+A figura WIR007 ilustra a tela de perfil para o preenchimento de dados pessoais do aplicativo BeThere em versão para desktop.
+
+![Preview](images/wireframes/perfil_dados_pessoais.png?raw=true "Wireframe da tela de perfil - dados pessoais - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR007 — Perfil - Dados Pessoais]</h5>
+
+A figura WIR008 ilustra a tela de perfil para o preenchimento de dados pessoais do aplicativo BeThere em versão responsiva.
+
+![Preview](images/wireframes/m_perfil_dados_pessoais.png?raw=true "Wireframe da tela de perfil - dados pessoais - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR008 — Perfil - Dados Pessoais]</h5>
