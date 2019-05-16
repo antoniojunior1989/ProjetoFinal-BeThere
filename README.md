@@ -20,7 +20,7 @@ ARTEFATOS DO PROJETO
 
 ## [04 - Product Backlog](product-backlog.md)
 
-## [05 - Spring Backlog](spring-backlog.md)
+## [05 - Spring Backlog](sprint-backlog.md)
 
 ## [06 - Benchmarking](benchmarking.md)
 
