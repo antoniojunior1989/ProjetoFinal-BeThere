@@ -9,14 +9,14 @@ http://bethereapp.herokuapp.com/login
 Login: admin    
 Senha: 123
 
-### ARTEFATOS DO PROJETO:
+### Artefatos do projeto
 
-#### [Benchmarking - tabela comparativa](testes.md)
+### [Benchmarking - tabela comparativa](testes.md)
 
-#### [Canvas do Produto](canvas-do-produto.md)
+### [Canvas do Produto](canvas-do-produto.md)
 
-#### [Diagrama ER](DiagramaER.md)
+### [Diagrama ER](DiagramaER.md)
 
-#### [Planejamento da Release](planejamento-da-release.md)
+### [Planejamento da Release](planejamento-da-release.md)
 
-#### [Representação da Arquitetura](representacao-da-arquitetura.md)
+### [Representação da Arquitetura](representacao-da-arquitetura.md)
