@@ -2,14 +2,14 @@
 
 Esse documento tem como objetivo apresentar e descrever o projeto "BeThere - Carona Solidária", fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
-### [Apresentação geral do projeto (MEDIUM)](https://medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f622)
+## [Apresentação geral do projeto (MEDIUM)](https://medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f622)
 
 Link para acessar a aplicação:
 http://bethereapp.herokuapp.com/login    
 Login: admin    
 Senha: 123
 
-### Artefatos do projeto
+## Artefatos do projeto
 
 ### [Benchmarking - tabela comparativa](testes.md)
 
