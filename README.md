@@ -12,18 +12,18 @@ https://medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f6
 
 ARTEFATOS DO PROJETO
 
-## [Arquitetura do sistema](arquitetura-sistema.md)
+## [01 - Arquitetura do sistema](arquitetura-sistema.md)
 
-## [Modelo de arquitetura](modelo-arquitetura.md)
+## [02 - Modelo de arquitetura](modelo-arquitetura.md)
 
-## [Estrutura do Banco de Dados](estrutura-banco-dados.md)
+## [03 - Estrutura do Banco de Dados](estrutura-banco-dados.md)
 
-## [Product Backlog](product-backlog.md)
+## [04 - Product Backlog](product-backlog.md)
 
-## [Spring Backlog](spring-backlog.md)
+## [05 - Spring Backlog](spring-backlog.md)
 
-## [Benchmarking](benchmarking.md)
+## [06 - Benchmarking](benchmarking.md)
 
-## [Wireframes](wireframes.md)
+## [07 - Wireframes](wireframes.md)
 
-## [Validação do sistema](validacao-sistema.md)
+## [08 - Validação do sistema](validacao-sistema.md)
