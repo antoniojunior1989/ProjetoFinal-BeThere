@@ -81,18 +81,15 @@ A figura WIR014 ilustra a tela de menu do aplicativo BeThere em versão responsi
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR014 — Menu]</h5>
 
 ## Tela de solicitação de carona
-A figura WIR015 e a figura WIR016 ilustram a tela de solicitação de carona do aplicativo BeThere em versão para desktop.
+A figura WIR015 ilustra a tela de solicitação de carona do aplicativo BeThere em versão para desktop.
 
 ![Preview](images/wireframes/carona_nova.png?raw=true "Wireframe da tela de solicitação de carona - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR015 — Solicitação de Carona]</h5>
 
-![Preview](images/wireframes/carona_nova_1.png?raw=true "Wireframe da tela de solicitação de carona - BeThere")
-<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR016 — Solicitação de Carona]</h5>
-
-A figura WIR017 e a figura WIR018 ilustram a tela de solicitação de carona do aplicativo BeThere em versão responsiva.
+A figura WIR016 e a figura WIR017 ilustram a tela de solicitação de carona do aplicativo BeThere em versão responsiva.
 
 ![Preview](images/wireframes/m_carona_nova.png?raw=true "Wireframe da tela de solicitação de carona - BeThere")
-<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR017 — Solicitação de Carona]</h5>
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR016 — Solicitação de Carona]</h5>
 
 ![Preview](images/wireframes/m_carona_nova_1.png?raw=true "Wireframe da tela de solicitação de carona - BeThere")
-<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR018 — Solicitação de Carona]</h5>
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR017 — Solicitação de Carona]</h5>
