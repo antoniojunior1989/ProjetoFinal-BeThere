@@ -8,4 +8,4 @@ A View trata de exibir a aparência ou estrutura que o usuário verá na tela. �
 A Controller fará a mediação das entradas, convertendo-as em comandos para a Model ou para a View.
 
 ![Preview](/images/modelo-arquitetura-01.png?raw=true "Figura MOD001 — Arquitetura MVC")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura MOD001 — Arquitetura MVC]</h5>
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura MOD001 — Arquitetura MVC]</h5>
