@@ -25,5 +25,3 @@ ARTEFATOS DO PROJETO
 ## [06 - Benchmarking](benchmarking.md)
 
 ## [07 - Wireframes](wireframes.md)
-
-## [08 - Validação do sistema](system-validation.md)
