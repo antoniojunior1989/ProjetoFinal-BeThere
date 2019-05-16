@@ -12,12 +12,18 @@ https://medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f6
 
 ARTEFATOS DO PROJETO
 
-## [Benchmarking - tabela comparativa](testes.md)
+## [Arquitetura do sistema](arquitetura-sistema.md)
 
-## [Canvas do Produto](canvas-do-produto.md)
+## [Modelo de arquitetura](modelo-arquitetura.md)
 
-## [Diagrama ER](DiagramaER.md)
+## [Estrutura do Banco de Dados](estrutura-banco-dados.md)
 
-## [Planejamento da Release](planejamento-da-release.md)
+## [Product Backlog](product-backlog.md)
 
-## [Representação da Arquitetura](representacao-da-arquitetura.md)
+## [Spring Backlog](spring-backlog.md)
+
+## [Benchmarking](benchmarking.md)
+
+## [Wireframes](wireframes.md)
+
+## [Validação do sistema](validacao-sistema.md)
