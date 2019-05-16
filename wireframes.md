@@ -57,3 +57,14 @@ A figura WIR010 ilustra a tela de perfil para a informação dos documentos de m
 
 ![Preview](images/wireframes/m_perfil_documentos.png?raw=true "Wireframe da tela de perfil - documentos - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR010 — Perfil - Documentos]</h5>
+
+## Tela de perfil - carro
+A figura WIR011 ilustra a tela de perfil para o preenchimento dos dados do carro do aplicativo BeThere em versão para desktop.
+
+![Preview](images/wireframes/perfil_carro.png?raw=true "Wireframe da tela de perfil - carro - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR011 — Perfil - Carro]</h5>
+
+A figura WIR012 ilustra a tela de perfil para o preenchimento dos dados do carro do aplicativo BeThere em versão responsiva.
+
+![Preview](images/wireframes/m_perfil_carro.png?raw=true "Wireframe da tela de perfil - carro - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR012 — Perfil - Carro]</h5>
