@@ -1,3 +1,7 @@
-# Benchmarking - tabela comparativa
+# Validação do sistema
 
-https://www.google.com
+Abaixo a descrição e imagens da validação do aplicativo BeThere - Carona Solidária.
+
+## Primeira etapa da validação
+
+teste
