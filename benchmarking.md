@@ -1,3 +1,3 @@
-# Benchmarking - tabela comparativa
+# Benchmarking
 
 https://www.google.com
