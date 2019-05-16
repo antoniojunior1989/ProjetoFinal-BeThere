@@ -7,7 +7,7 @@ http://bethereapp.herokuapp.com/login
 Login: admin    
 Senha: 123
 
-Apresentação geral do projeto
+Apresentação geral do projeto:  
 https://medium.com/@antoniolimajr_29030/bethere-carona-solid%C3%A1ria-870805f2f622
 
 ARTEFATOS DO PROJETO
