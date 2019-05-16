@@ -126,3 +126,20 @@ A figura WIR023 ilustra a tela de listagem de minhas solicitações de caronas d
 
 ![Preview](images/wireframes/m_reserva.png?raw=true "Wireframe da tela listagem de minhas solicitações de caronas - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR023 — Listagem de minhas solicitações]</h5>
+
+## Tela de listagem de mensagens
+A figura WIR024 e WIR025 ilustram a tela de listagem de mensagens de caronas do aplicativo BeThere em versão para desktop.
+
+![Preview](images/wireframes/mensagem.png?raw=true "Wireframe da tela de mensagens - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR024 — Mensagens]</h5>
+
+![Preview](images/wireframes/mensagem_1.png?raw=true "Wireframe da tela de mensagens - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR025 — Mensagens]</h5>
+
+A figura WIR026 e WIR027 ilustram a tela de listagem de mensagens de caronas do aplicativo BeThere em versão responsiva.
+
+![Preview](images/wireframes/m_mensagem.png?raw=true "Wireframe da tela de mensagens - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR026 — Mensagens]</h5>
+
+![Preview](images/wireframes/m_mensagem_1.png?raw=true "Wireframe da tela de mensagens - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR027 — Mensagens]</h5>
