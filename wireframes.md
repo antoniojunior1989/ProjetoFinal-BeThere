@@ -143,3 +143,14 @@ A figura WIR026 e WIR027 ilustram a tela de listagem de mensagens de caronas do 
 
 ![Preview](images/wireframes/m_mensagem_1.png?raw=true "Wireframe da tela de mensagens - BeThere")
 <h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR027 — Mensagens]</h5>
+
+## Tela de listagem de avaliação de carona
+A figura WIR028 ilustra a tela de avaliação de carona do aplicativo BeThere em versão para desktop.
+
+![Preview](images/wireframes/mensagem_2.png?raw=true "Wireframe da tela avaliação de carona - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR028 — Listagem de avaliação de carona]</h5>
+
+A figura WIR029 ilustra a tela de avaliação de carona do aplicativo BeThere em versão responsiva.
+
+![Preview](images/wireframes/m_mensagem_2.png?raw=true "Wireframe da tela avaliação de carona - BeThere")
+<h5>Fonte: Desenvolvido pelo autor do projeto [Figura WIR029 — Listagem de avaliação de carona]</h5>
