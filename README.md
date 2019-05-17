@@ -4,7 +4,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto "BeThere - Car
 
 Link para acessar a aplicação:
 https://bethereapp.herokuapp.com    
-Login: admin    
+Usuário: admin    
 Senha: 123
 
 Apresentação geral do projeto:  
