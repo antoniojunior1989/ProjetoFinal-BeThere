@@ -23,5 +23,3 @@ ARTEFATOS DO PROJETO
 ## [05 - Benchmarking](benchmarking.md)
 
 ## [06 - Wireframes](wireframes.md)
-
-## [07 - Personas](personas.md)
