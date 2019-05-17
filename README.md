@@ -1,4 +1,4 @@
-# Documentação e Artefatos
+﻿# Documentação e Artefatos
 
 Esse documento tem como objetivo apresentar e descrever o projeto "BeThere - Carona Solidária", fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
@@ -16,12 +16,10 @@ ARTEFATOS DO PROJETO
 
 ## [02 - Modelo de arquitetura](architecture-model.md)
 
-## [03 - Estrutura do Banco de Dados](structure-database.md)
+## [03 - Product Backlog](product-backlog.md)
 
-## [04 - Product Backlog](product-backlog.md)
+## [04 - Sprint Backlog](sprint-backlog.md)
 
-## [05 - Sprint Backlog](sprint-backlog.md)
+## [05 - Benchmarking](benchmarking.md)
 
-## [06 - Benchmarking](benchmarking.md)
-
-## [07 - Wireframes](wireframes.md)
+## [06 - Wireframes](wireframes.md)
