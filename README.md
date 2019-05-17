@@ -3,7 +3,7 @@
 Esse documento tem como objetivo apresentar e descrever o projeto "BeThere - Carona Solidária", fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
 Link para acessar a aplicação:
-https://bethereapp.herokuapp.com
+https://bethereapp.herokuapp.com    
 Login: admin    
 Senha: 123
 
